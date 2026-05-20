@@ -25,48 +25,31 @@ CS grad student at **HKU**, nerd-sniped by LLM agents and Java backend systems.
 
 ## 🧪 Projects
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 ### 🤖 AI Agent Assistant
 
-<p>
-  <img src="https://img.shields.io/badge/Java_17-D97757?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain4j-C15F3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/PgVector-E8956F?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-D97757?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-C15F3C?style=flat-square" />
-</p>
+![Java_17](https://img.shields.io/badge/Java_17-D97757?style=flat-square&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-C15F3C?style=flat-square)
+![PgVector](https://img.shields.io/badge/PgVector-E8956F?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-C15F3C?style=flat-square)
 
 An agent that actually remembers things — RAG with PgVector, distributed memory via Redis, tool calling, and guardrails against prompt injection.
 
-</td>
-<td valign="top" width="50%">
+<br/>
 
 ### 💬 Realtime IM
 
-<p>
-  <img src="https://img.shields.io/badge/Netty-D97757?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kafka-C15F3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Spring_Cloud-E8956F?style=flat-square" />
-  <img src="https://img.shields.io/badge/MySQL-D97757?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-C15F3C?style=flat-square" />
-</p>
+![Netty](https://img.shields.io/badge/Netty-D97757?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-C15F3C?style=flat-square)
+![Spring_Cloud](https://img.shields.io/badge/Spring_Cloud-E8956F?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-D97757?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-C15F3C?style=flat-square)
 
 A distributed chat system built on Netty long connections, Kafka-ordered group messaging, consistent hashing, and a two-tier cache.
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 ## 🛠️ Toolbox
-
-<table>
-<tr>
-<td valign="top" width="50%">
 
 **🤖 AI & Agents**
 
@@ -81,9 +64,6 @@ A distributed chat system built on Netty long connections, Kafka-ordered group m
 ![SpringCloud](https://img.shields.io/badge/Spring_Cloud-C15F3C?style=for-the-badge&logo=spring&logoColor=white)
 ![Netty](https://img.shields.io/badge/Netty-E8956F?style=for-the-badge&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
 **🗄️ Data & Messaging**
 
 ![MySQL](https://img.shields.io/badge/MySQL-D97757?style=for-the-badge&logo=mysql&logoColor=white)
@@ -96,10 +76,6 @@ A distributed chat system built on Netty long connections, Kafka-ordered group m
 ![Docker](https://img.shields.io/badge/Docker-D97757?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-C15F3C?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E8956F?style=for-the-badge&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
