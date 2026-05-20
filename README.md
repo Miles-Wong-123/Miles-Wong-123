@@ -83,9 +83,6 @@ A distributed chat system built on Netty long connections, Kafka-ordered group m
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Miles-Wong-123&show_icons=true&hide_border=true&bg_color=FAF9F5&title_color=D97757&icon_color=C15F3C&text_color=3D3929&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miles-Wong-123&layout=compact&hide_border=true&bg_color=FAF9F5&title_color=D97757&text_color=3D3929&langs_count=8" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miles-Wong-123&hide_border=true&background=FAF9F5&stroke=D97757&ring=C15F3C&fire=D97757&currStreakLabel=D97757&sideLabels=3D3929&dates=3D3929&currStreakNum=3D3929&sideNums=3D3929" />
